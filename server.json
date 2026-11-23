@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "studio.protegee/protegee",
+  "title": "Protegee",
+  "description": "Plan, write, render and schedule social videos, carousels and threads for your brand.",
+  "version": "1.0.1",
+  "websiteUrl": "https://protegee.studio",
+  "repository": {"url": "https://github.com/protegee-studio/protegee-mcp", "source": "github"},
+  "icons": [{"src": "https://protegee.studio/assets/favicon.png", "mimeType": "image/png", "sizes": ["256x256"]}],
+  "remotes": [{"type": "streamable-http", "url": "https://app.protegee.studio/mcp"}]
+}
